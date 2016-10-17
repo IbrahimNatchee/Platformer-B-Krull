@@ -1,9 +1,239 @@
 fileFormatVersion: 2
 guid: 99511a0353b4c8f488c000549fa14ebf
-timeCreated: 1476572274
+timeCreated: 1476744672
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: set-cave_bright-ConvertImage02_0
+    21300002: set-cave_bright-ConvertImage02_1
+    21300004: set-cave_bright-ConvertImage02_2
+    21300006: set-cave_bright-ConvertImage02_3
+    21300008: set-cave_bright-ConvertImage02_4
+    21300010: set-cave_bright-ConvertImage02_5
+    21300012: set-cave_bright-ConvertImage02_6
+    21300014: set-cave_bright-ConvertImage02_7
+    21300016: set-cave_bright-ConvertImage02_8
+    21300018: set-cave_bright-ConvertImage02_9
+    21300020: set-cave_bright-ConvertImage02_10
+    21300022: set-cave_bright-ConvertImage02_11
+    21300024: set-cave_bright-ConvertImage02_12
+    21300026: set-cave_bright-ConvertImage02_13
+    21300028: set-cave_bright-ConvertImage02_14
+    21300030: set-cave_bright-ConvertImage02_15
+    21300032: set-cave_bright-ConvertImage02_16
+    21300034: set-cave_bright-ConvertImage02_17
+    21300036: set-cave_bright-ConvertImage02_18
+    21300038: set-cave_bright-ConvertImage02_19
+    21300040: set-cave_bright-ConvertImage02_20
+    21300042: set-cave_bright-ConvertImage02_21
+    21300044: set-cave_bright-ConvertImage02_22
+    21300046: set-cave_bright-ConvertImage02_23
+    21300048: set-cave_bright-ConvertImage02_24
+    21300050: set-cave_bright-ConvertImage02_25
+    21300052: set-cave_bright-ConvertImage02_26
+    21300054: set-cave_bright-ConvertImage02_27
+    21300056: set-cave_bright-ConvertImage02_28
+    21300058: set-cave_bright-ConvertImage02_29
+    21300060: set-cave_bright-ConvertImage02_30
+    21300062: set-cave_bright-ConvertImage02_31
+    21300064: set-cave_bright-ConvertImage02_32
+    21300066: set-cave_bright-ConvertImage02_33
+    21300068: set-cave_bright-ConvertImage02_34
+    21300070: set-cave_bright-ConvertImage02_35
+    21300072: set-cave_bright-ConvertImage02_36
+    21300074: set-cave_bright-ConvertImage02_37
+    21300076: set-cave_bright-ConvertImage02_38
+    21300078: set-cave_bright-ConvertImage02_39
+    21300080: set-cave_bright-ConvertImage02_40
+    21300082: set-cave_bright-ConvertImage02_41
+    21300084: set-cave_bright-ConvertImage02_42
+    21300086: set-cave_bright-ConvertImage02_43
+    21300088: set-cave_bright-ConvertImage02_44
+    21300090: set-cave_bright-ConvertImage02_45
+    21300092: set-cave_bright-ConvertImage02_46
+    21300094: set-cave_bright-ConvertImage02_47
+    21300096: set-cave_bright-ConvertImage02_48
+    21300098: set-cave_bright-ConvertImage02_49
+    21300100: set-cave_bright-ConvertImage02_50
+    21300102: set-cave_bright-ConvertImage02_51
+    21300104: set-cave_bright-ConvertImage02_52
+    21300106: set-cave_bright-ConvertImage02_53
+    21300108: set-cave_bright-ConvertImage02_54
+    21300110: set-cave_bright-ConvertImage02_55
+    21300112: set-cave_bright-ConvertImage02_56
+    21300114: set-cave_bright-ConvertImage02_57
+    21300116: set-cave_bright-ConvertImage02_58
+    21300118: set-cave_bright-ConvertImage02_59
+    21300120: set-cave_bright-ConvertImage02_60
+    21300122: set-cave_bright-ConvertImage02_61
+    21300124: set-cave_bright-ConvertImage02_62
+    21300126: set-cave_bright-ConvertImage02_63
+    21300128: set-cave_bright-ConvertImage02_64
+    21300130: set-cave_bright-ConvertImage02_65
+    21300132: set-cave_bright-ConvertImage02_66
+    21300134: set-cave_bright-ConvertImage02_67
+    21300136: set-cave_bright-ConvertImage02_68
+    21300138: set-cave_bright-ConvertImage02_69
+    21300140: set-cave_bright-ConvertImage02_70
+    21300142: set-cave_bright-ConvertImage02_71
+    21300144: set-cave_bright-ConvertImage02_72
+    21300146: set-cave_bright-ConvertImage02_73
+    21300148: set-cave_bright-ConvertImage02_74
+    21300150: set-cave_bright-ConvertImage02_75
+    21300152: set-cave_bright-ConvertImage02_76
+    21300154: set-cave_bright-ConvertImage02_77
+    21300156: set-cave_bright-ConvertImage02_78
+    21300158: set-cave_bright-ConvertImage02_79
+    21300160: set-cave_bright-ConvertImage02_80
+    21300162: set-cave_bright-ConvertImage02_81
+    21300164: set-cave_bright-ConvertImage02_82
+    21300166: set-cave_bright-ConvertImage02_83
+    21300168: set-cave_bright-ConvertImage02_84
+    21300170: set-cave_bright-ConvertImage02_85
+    21300172: set-cave_bright-ConvertImage02_86
+    21300174: set-cave_bright-ConvertImage02_87
+    21300176: set-cave_bright-ConvertImage02_88
+    21300178: set-cave_bright-ConvertImage02_89
+    21300180: set-cave_bright-ConvertImage02_90
+    21300182: set-cave_bright-ConvertImage02_91
+    21300184: set-cave_bright-ConvertImage02_92
+    21300186: set-cave_bright-ConvertImage02_93
+    21300188: set-cave_bright-ConvertImage02_94
+    21300190: set-cave_bright-ConvertImage02_95
+    21300192: set-cave_bright-ConvertImage02_96
+    21300194: set-cave_bright-ConvertImage02_97
+    21300196: set-cave_bright-ConvertImage02_98
+    21300198: set-cave_bright-ConvertImage02_99
+    21300200: set-cave_bright-ConvertImage02_100
+    21300202: set-cave_bright-ConvertImage02_101
+    21300204: set-cave_bright-ConvertImage02_102
+    21300206: set-cave_bright-ConvertImage02_103
+    21300208: set-cave_bright-ConvertImage02_104
+    21300210: set-cave_bright-ConvertImage02_105
+    21300212: set-cave_bright-ConvertImage02_106
+    21300214: set-cave_bright-ConvertImage02_107
+    21300216: set-cave_bright-ConvertImage02_108
+    21300218: set-cave_bright-ConvertImage02_109
+    21300220: set-cave_bright-ConvertImage02_110
+    21300222: set-cave_bright-ConvertImage02_111
+    21300224: set-cave_bright-ConvertImage02_112
+    21300226: set-cave_bright-ConvertImage02_113
+    21300228: set-cave_bright-ConvertImage02_114
+    21300230: set-cave_bright-ConvertImage02_115
+    21300232: set-cave_bright-ConvertImage02_116
+    21300234: set-cave_bright-ConvertImage02_117
+    21300236: set-cave_bright-ConvertImage02_118
+    21300238: set-cave_bright-ConvertImage02_119
+    21300240: set-cave_bright-ConvertImage02_120
+    21300242: set-cave_bright-ConvertImage02_121
+    21300244: set-cave_bright-ConvertImage02_122
+    21300246: set-cave_bright-ConvertImage02_123
+    21300248: set-cave_bright-ConvertImage02_124
+    21300250: set-cave_bright-ConvertImage02_125
+    21300252: set-cave_bright-ConvertImage02_126
+    21300254: set-cave_bright-ConvertImage02_127
+    21300256: set-cave_bright-ConvertImage02_128
+    21300258: set-cave_bright-ConvertImage02_129
+    21300260: set-cave_bright-ConvertImage02_130
+    21300262: set-cave_bright-ConvertImage02_131
+    21300264: set-cave_bright-ConvertImage02_132
+    21300266: set-cave_bright-ConvertImage02_133
+    21300268: set-cave_bright-ConvertImage02_134
+    21300270: set-cave_bright-ConvertImage02_135
+    21300272: set-cave_bright-ConvertImage02_136
+    21300274: set-cave_bright-ConvertImage02_137
+    21300276: set-cave_bright-ConvertImage02_138
+    21300278: set-cave_bright-ConvertImage02_139
+    21300280: set-cave_bright-ConvertImage02_140
+    21300282: set-cave_bright-ConvertImage02_141
+    21300284: set-cave_bright-ConvertImage02_142
+    21300286: set-cave_bright-ConvertImage02_143
+    21300288: set-cave_bright-ConvertImage02_144
+    21300290: set-cave_bright-ConvertImage02_145
+    21300292: set-cave_bright-ConvertImage02_146
+    21300294: set-cave_bright-ConvertImage02_147
+    21300296: set-cave_bright-ConvertImage02_148
+    21300298: set-cave_bright-ConvertImage02_149
+    21300300: set-cave_bright-ConvertImage02_150
+    21300302: set-cave_bright-ConvertImage02_151
+    21300304: set-cave_bright-ConvertImage02_152
+    21300306: set-cave_bright-ConvertImage02_153
+    21300308: set-cave_bright-ConvertImage02_154
+    21300310: set-cave_bright-ConvertImage02_155
+    21300312: set-cave_bright-ConvertImage02_156
+    21300314: set-cave_bright-ConvertImage02_157
+    21300316: set-cave_bright-ConvertImage02_158
+    21300318: set-cave_bright-ConvertImage02_159
+    21300320: set-cave_bright-ConvertImage02_160
+    21300322: set-cave_bright-ConvertImage02_161
+    21300324: set-cave_bright-ConvertImage02_162
+    21300326: set-cave_bright-ConvertImage02_163
+    21300328: set-cave_bright-ConvertImage02_164
+    21300330: set-cave_bright-ConvertImage02_165
+    21300332: set-cave_bright-ConvertImage02_166
+    21300334: set-cave_bright-ConvertImage02_167
+    21300336: set-cave_bright-ConvertImage02_168
+    21300338: set-cave_bright-ConvertImage02_169
+    21300340: set-cave_bright-ConvertImage02_170
+    21300342: set-cave_bright-ConvertImage02_171
+    21300344: set-cave_bright-ConvertImage02_172
+    21300346: set-cave_bright-ConvertImage02_173
+    21300348: set-cave_bright-ConvertImage02_174
+    21300350: set-cave_bright-ConvertImage02_175
+    21300352: set-cave_bright-ConvertImage02_176
+    21300354: set-cave_bright-ConvertImage02_177
+    21300356: set-cave_bright-ConvertImage02_178
+    21300358: set-cave_bright-ConvertImage02_179
+    21300360: set-cave_bright-ConvertImage02_180
+    21300362: set-cave_bright-ConvertImage02_181
+    21300364: set-cave_bright-ConvertImage02_182
+    21300366: set-cave_bright-ConvertImage02_183
+    21300368: set-cave_bright-ConvertImage02_184
+    21300370: set-cave_bright-ConvertImage02_185
+    21300372: set-cave_bright-ConvertImage02_186
+    21300374: set-cave_bright-ConvertImage02_187
+    21300376: set-cave_bright-ConvertImage02_188
+    21300378: set-cave_bright-ConvertImage02_189
+    21300380: set-cave_bright-ConvertImage02_190
+    21300382: set-cave_bright-ConvertImage02_191
+    21300384: set-cave_bright-ConvertImage02_192
+    21300386: set-cave_bright-ConvertImage02_193
+    21300388: set-cave_bright-ConvertImage02_194
+    21300390: set-cave_bright-ConvertImage02_195
+    21300392: set-cave_bright-ConvertImage02_196
+    21300394: set-cave_bright-ConvertImage02_197
+    21300396: set-cave_bright-ConvertImage02_198
+    21300398: set-cave_bright-ConvertImage02_199
+    21300400: set-cave_bright-ConvertImage02_200
+    21300402: set-cave_bright-ConvertImage02_201
+    21300404: set-cave_bright-ConvertImage02_202
+    21300406: set-cave_bright-ConvertImage02_203
+    21300408: set-cave_bright-ConvertImage02_204
+    21300410: set-cave_bright-ConvertImage02_205
+    21300412: set-cave_bright-ConvertImage02_206
+    21300414: set-cave_bright-ConvertImage02_207
+    21300416: set-cave_bright-ConvertImage02_208
+    21300418: set-cave_bright-ConvertImage02_209
+    21300420: set-cave_bright-ConvertImage02_210
+    21300422: set-cave_bright-ConvertImage02_211
+    21300424: set-cave_bright-ConvertImage02_212
+    21300426: set-cave_bright-ConvertImage02_213
+    21300428: set-cave_bright-ConvertImage02_214
+    21300430: set-cave_bright-ConvertImage02_215
+    21300432: set-cave_bright-ConvertImage02_216
+    21300434: set-cave_bright-ConvertImage02_217
+    21300436: set-cave_bright-ConvertImage02_218
+    21300438: set-cave_bright-ConvertImage02_219
+    21300440: set-cave_bright-ConvertImage02_220
+    21300442: set-cave_bright-ConvertImage02_221
+    21300444: set-cave_bright-ConvertImage02_222
+    21300446: set-cave_bright-ConvertImage02_223
+    21300448: set-cave_bright-ConvertImage02_224
+    21300450: set-cave_bright-ConvertImage02_225
+    21300452: set-cave_bright-ConvertImage02_226
+    21300454: set-cave_bright-ConvertImage02_227
+    21300456: set-cave_bright-ConvertImage02_228
+    21300458: set-cave_bright-ConvertImage02_229
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +260,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +268,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,7 +281,2997 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_17
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_18
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_20
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_22
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 291
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_31
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_33
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_34
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_36
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_37
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_38
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_40
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_41
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_43
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_44
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_45
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_49
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_50
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_51
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_53
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_54
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_56
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_57
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_59
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_61
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_62
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_63
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_64
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_65
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_66
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_67
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_68
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 227
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_70
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_71
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_72
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_75
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_76
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_77
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_78
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_79
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_81
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_82
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_83
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_84
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_85
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_86
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_87
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_88
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_89
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_90
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_91
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 195
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_93
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_94
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_95
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_96
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_97
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_98
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_99
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_100
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_101
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_102
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_103
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_104
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_105
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_106
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_107
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_108
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_109
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_110
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_111
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_112
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_113
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_114
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 163
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_115
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_116
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_117
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_118
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_119
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_120
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_121
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_122
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_123
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_124
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_125
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_126
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_127
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_128
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_129
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_130
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_131
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_132
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_133
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_134
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_135
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_136
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_137
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_138
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_139
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_140
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_141
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_142
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_143
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_144
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_145
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_146
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_147
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_148
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_149
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_150
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_151
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_152
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_153
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_154
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_155
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_156
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_157
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_158
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_159
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_160
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_161
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_162
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_163
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_164
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_165
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_166
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_167
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_168
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_169
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_170
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_171
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_172
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_173
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_174
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_175
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_176
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_177
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_178
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_179
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_180
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_181
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_182
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_183
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 67
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_184
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_185
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_186
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_187
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_188
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_189
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_190
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_191
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_192
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_193
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_194
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_195
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_196
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_197
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_198
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_199
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_200
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_201
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_202
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_203
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_204
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_205
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_206
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 35
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_207
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_208
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_209
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_210
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_211
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_212
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_213
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_214
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_215
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_216
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_217
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_218
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_219
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_220
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_221
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_222
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_223
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_224
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_225
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_226
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_227
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_228
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: set-cave_bright-ConvertImage02_229
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 3
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 
