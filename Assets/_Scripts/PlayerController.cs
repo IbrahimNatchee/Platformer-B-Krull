@@ -37,10 +37,11 @@ public class PlayerController : MonoBehaviour {
 
     public Transform SpawnPoint;
 
-    
 
-   
-    
+    [Header("Sound Clips")]
+    // this will be the variable to instaniate everytime the player jumps, dies or breakdance
+    public AudioSource JumpSound;
+    public AudioSource DeathSound;
 
 
     
@@ -86,6 +87,9 @@ public class PlayerController : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.Space))
             {
                 this._jump = 1f;
+
+                //this will make a sound when the player jump
+                this.JumpSound.Play ();
             }
         
         //now we adding the movement, reason why we dont add this to transform is because if we do so and it runs to a block it keeps going through it, non stop
@@ -154,10 +158,15 @@ private void _initialize() {
     private void OnCollisionEnter2D(Collision2D other){
         if (other.gameObject.CompareTag("DeathPlane")){
 
+           
+
+
             //move the player's position to the spawn point's position
 
             //just saying if it touches the death plane, change the spawn point's position into the _transform's position which that, is equal tot he current Transform position
             this._transform.position = this.SpawnPoint.position;
+            //this will initiate the death sound
+            this.DeathSound.Play();
         }
 
     }
