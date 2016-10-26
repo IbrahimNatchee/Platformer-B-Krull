@@ -20,6 +20,19 @@ public class PlayerController : MonoBehaviour {
     //this variable will ensure that the player is grounded as soon we do that we can initiate the jump method
     private bool _isGrounded;
 
+    //Step 7 in here we are making a reference to our anmator after adjusting and ading the animation on unity.
+    //this will stick the animator with the Unity with this script
+    private Animator _animator;
+    //sTEP 8, NOW THIS CAMERA WOULDVE WORKED BUT LATER ON WE NEED THE HERO AS A PREFAB, PREFABS DONT SEE OBJECTS IF THEY ARE IN HEIRARCHY, ONLY AS GAME OBJECTS, SO INSTEAD OF ASSIGNING
+    //EVRYTHING BACK ON WE WILL CHANGE BOTH CAMERA AND SPAWNPOINT TO GAMEOBJECT.
+    //we want the camera to follow the player so we have to reference the camera object, SO IN
+    private GameObject _camera;
+
+    //this variable is used as a spawn point to respawn player at a certain point of the game
+    //keep in mind that any given moment we want something to do with LOCATION we use Transform built-in function from unity, as such we are making this variable
+    //of type Transform
+    private GameObject _spawnPoint;
+
     //Public instance variables (for testing)
     // f signifies it's a float, if f is not added at the end it will not compile
     //Velocity is a variable within Unity
@@ -29,13 +42,15 @@ public class PlayerController : MonoBehaviour {
     public float JumpForce = 100f;
 
     //we want the camera to follow the player so we have to reference the camera object
-    public Camera camera;
+    //public Camera camera;
+
+    
 
     //this variable is used as a spawn point to respawn player at a certain point of the game
     //keep in mind that any given moment we want something to do with LOCATION we use Transform built-in function from unity, as such we are making this variable
     //of type Transform
+    //    public Transform SpawnPoint;
 
-    public Transform SpawnPoint;
 
 
     [Header("Sound Clips")]
@@ -68,17 +83,24 @@ public class PlayerController : MonoBehaviour {
 
         //now here we use this to sanitize the velocity, no decimals 1=moving right, -1=moving left, 0=not moving at all
         if (this._move > 0f) {
-            this._move = 1;
+                //STEP 7 continued, set the animation state to walk
+                this._animator.SetInteger("HeroState", 1);
+                this._move = 1;
             this._isFacingRight = true;
             this.flip();
         }
         else if (this._move < 0f) {
-            this._move = -1;
+                //STEP 7 continued, set the animation state to walk
+                this._animator.SetInteger("HeroState", 1);
+                this._move = -1;
             //we movem back or forth and then we say if he is moving right or left through the flip method
             this._isFacingRight = false;
             this.flip();
         }
         else{
+                //STEP 7 continued, after making the references and the GETCOMPONENT, we now have to assign the paramaters of animator state 0 o 1 or viseversa
+                //this means, access the integer _animator, set an integer and set it to zero
+                this._animator.SetInteger("HeroState", 0);
             this._move = 0f;
         }
         
@@ -114,7 +136,7 @@ public class PlayerController : MonoBehaviour {
         //now that we moved the player we want the camera to follow
         //we use the _transform variable since it is connected to Transform object and transfer it's x and y position with -10f in Z axis so we can look at screen
         //multiplied each x and y position for camera by 0.8 to add a bit of a lag so it wouldnt breath down our neck
-        this.camera.transform.position = new Vector3 (
+        this._camera.transform.position = new Vector3 (
             this._transform.position.x,
             this._transform.position.y,
             -10f);
@@ -133,11 +155,17 @@ private void _initialize() {
         //lets initialize the _transform and _rigidbody variables by assigning them the same values as the current Transform and Rigibody2d
         this._transform = GetComponent<Transform>();
         this._rigidbody = GetComponent<Rigidbody2D>();
+
+        //Step 7 c00ntinued whre we give the value of the Animator component to animator variable, making a refrerence              
+        this._animator = GetComponent<Animator>();
         this._move = 0f;
         this._isFacingRight = true;
 
         //in the beggining he is falling, so that's what we initiate
         this._isGrounded = false;
+
+        this._camera = GameObject.FindWithTag("MainCamera");
+        this._spawnPoint = GameObject.FindWithTag("SpawnPoint");
     }
 
     
@@ -164,7 +192,7 @@ private void _initialize() {
             //move the player's position to the spawn point's position
 
             //just saying if it touches the death plane, change the spawn point's position into the _transform's position which that, is equal tot he current Transform position
-            this._transform.position = this.SpawnPoint.position;
+            this._transform.position = this._spawnPoint.transform.position;
             //this will initiate the death sound
             this.DeathSound.Play();
         }
@@ -183,6 +211,9 @@ private void _initialize() {
  }
 
     private void OnCollisionExit2D(Collision2D other){
+        /*/This is STEP 8 in which we included the jump animation and assigned it a value of 2 in the animator, ofcourse jumping means
+        //not grounded and so*/
+        this._animator.SetInteger("HeroState", 2);
         this._isGrounded = false;
     }
 }
