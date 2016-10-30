@@ -1,4 +1,12 @@
-﻿using UnityEngine;
+﻿/* Source File Name: KillScript
+ * Author's Name: Ibrahim Natchee
+ * Last Modified By: Ibrahim Natchee
+ * Date Modified Last: October 29 2016
+ * Program Description: To game objects
+ * Revision History: October 29 2016
+ 
+ */
+using UnityEngine;
 using System.Collections;
 
 public class KillScript : MonoBehaviour {

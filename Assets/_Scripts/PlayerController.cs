@@ -1,4 +1,13 @@
-﻿using UnityEngine;
+﻿/* Source File Name: PlayerController
+ * Author's Name: Ibrahim Natchee
+ * Last Modified By: Ibrahim Natchee
+ * Date Modified Last: October 29 2016
+ * Program Description: To controll behaviour of Player
+ * Revision History: October 29 2016
+ 
+ */
+
+using UnityEngine;
 using System.Collections;
 
 public class PlayerController : MonoBehaviour {
@@ -32,6 +41,12 @@ public class PlayerController : MonoBehaviour {
     //keep in mind that any given moment we want something to do with LOCATION we use Transform built-in function from unity, as such we are making this variable
     //of type Transform
     private GameObject _spawnPoint;
+    /*this is the last step where we are making the UI objects
+     * /
+     */
+    private GameObject _gameControllerObject;
+    //part of the LAST step
+    private GameController _gameController;
 
     //Public instance variables (for testing)
     // f signifies it's a float, if f is not added at the end it will not compile
@@ -41,10 +56,13 @@ public class PlayerController : MonoBehaviour {
     //this is strictly for jumping, why a 100f?why more than velocity? because gravity is pressing me down.
     public float JumpForce = 100f;
 
+
+    
+
     //we want the camera to follow the player so we have to reference the camera object
     //public Camera camera;
 
-    
+
 
     //this variable is used as a spawn point to respawn player at a certain point of the game
     //keep in mind that any given moment we want something to do with LOCATION we use Transform built-in function from unity, as such we are making this variable
@@ -57,11 +75,15 @@ public class PlayerController : MonoBehaviour {
     // this will be the variable to instaniate everytime the player jumps, dies or breakdance
     public AudioSource JumpSound;
     public AudioSource DeathSound;
+    public AudioSource CoinSound;
+    public AudioSource HurtSound;
+    /*This is step 9 where we add enemy death sound*/
+    public AudioSource _MetalClangSound;
 
 
-    
+
     // Use this for initialization
-	void Start () {
+    void Start () {
 
         //lets not pollute our start method with a bunch of initialization for variables so we made the initialize method instead.
         this._initialize();
@@ -166,6 +188,10 @@ private void _initialize() {
 
         this._camera = GameObject.FindWithTag("MainCamera");
         this._spawnPoint = GameObject.FindWithTag("SpawnPoint");
+
+        //part of the LAST step
+        this._gameControllerObject = GameObject.Find ("Game Controller");
+        this._gameController = this._gameControllerObject.GetComponent<GameController>() as GameController;
     }
 
     
@@ -185,18 +211,30 @@ private void _initialize() {
     //this is if player, avatar touches the death plane, one of the most important tools ull use is the OnCollisionStay/Enter2D and CompareTag built-in function
     private void OnCollisionEnter2D(Collision2D other){
         if (other.gameObject.CompareTag("DeathPlane")){
-
-           
-
-
             //move the player's position to the spawn point's position
-
             //just saying if it touches the death plane, change the spawn point's position into the _transform's position which that, is equal tot he current Transform position
             this._transform.position = this._spawnPoint.transform.position;
             //this will initiate the death sound
             this.DeathSound.Play();
+            //part of LAST step where we are just saying if he collides with the death plane he getss -1 lives
+            this._gameController.LivesValue -= 1;
         }
+        if (other.gameObject.CompareTag("Coin"))
+        {
+            Destroy(other.gameObject);
+            this.CoinSound.Play();
+            //part of LAST step where we are just saying if he collides with an coin he getss 100 points
+            this._gameController.ScoreValue += 100;
+        }
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            
+            this._transform.position = this._spawnPoint.transform.position;
+            this.HurtSound.Play();
+            //part of LAST step where we are just saying if he collides with an enemy he getss -1 lives
+            this._gameController.LivesValue -= 1;
 
+        }
     }
 
 
@@ -216,4 +254,16 @@ private void _initialize() {
         this._animator.SetInteger("HeroState", 2);
         this._isGrounded = false;
     }
+
+    //This is step 9 where we add enemy clang death sound to the hero since he trigger interact with any enemy collider
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            this._MetalClangSound.Play();
+            Destroy(other.gameObject);
+
+        }
+    }
+
 }

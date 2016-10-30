@@ -1,4 +1,13 @@
-﻿using UnityEngine;
+﻿/* Source File Name: EnemyController
+ * Author's Name: Ibrahim Natchee
+ * Last Modified By: Ibrahim Natchee
+ * Date Modified Last: October 29 2016
+ * Program Description: To controll behaviour of enemy
+ * Revision History: October 29 2016
+ 
+ */
+
+using UnityEngine;
 using System.Collections;
 
 public class EnemyController : MonoBehaviour {
@@ -8,6 +17,10 @@ public class EnemyController : MonoBehaviour {
 
     
     //Private Instance Variables
+
+        
+
+
     private Transform _transform;
     //RigidBody2D is a built-in in unity 
     private Rigidbody2D _rigidbody;
@@ -53,6 +66,8 @@ public class EnemyController : MonoBehaviour {
 
         //next part of step 5 now we are defininf the beggining variable for _IsPlayerDetected
         this._IsPlayerDetected = false;
+
+       
     }
 
     // Update is called once per frame
@@ -143,8 +158,10 @@ public class EnemyController : MonoBehaviour {
         if (other.gameObject.CompareTag("Platform")) { 
         this._isGrounded = false;
         }
+         
     }
 
+    
 
     //This here is STEP 6 in which the enemy if met with another enemy will collide with one another and flip directions
     private void OnCollisionEnter2D(Collision2D other){
